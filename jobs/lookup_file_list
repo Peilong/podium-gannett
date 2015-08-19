@@ -1,0 +1,13 @@
+browser.tsv
+browser_type.tsv
+color_depth.tsv
+connection_type.tsv
+country.tsv
+event.tsv
+javascript_version.tsv
+languages.tsv
+operating_systems.tsv
+plugins.tsv
+referrer_type.tsv
+resolution.tsv
+search_engines.tsv

@@ -1,0 +1,35 @@
+" Press <F1> for help
+
+-[F]jobs {
+ |-desktop_file_list
+ |-gannett.exvim
+ |-gannettData.py
+ |-getlogs.py
+ |-load.py
+ |-load_ASAT_ADVGDS_CENTRAL.py
+ |-load_ASAT_ADVGDS_EAST.py
+ |-load_ASAT_ADVGDS_INTERSTATE.py
+ |-load_ASAT_ADVGDS_MICHIGAN.py
+ |-load_ASAT_ADVGDS_WEST.py
+ |-Load_ASAT_CIRG.out
+ |-Load_ASAT_CIRG.sh
+ |-load_CIRGDS_ALL_1of6.py
+ |-load_CIRGDS_ALL_2of6.py
+ |-load_CIRGDS_ALL_3of6.py
+ |-load_CIRGDS_ALL_4of6.py
+ |-load_CIRGDS_ALL_5of6.py
+ |-load_CIRGDS_ALL_6of6.py
+ |-load_CIRGDS_ALL_SUBS_2015
+ |-load_desktop.py
+ |-load_lookups.py
+ |-load_mobile.py
+ |-load_TEMPLATE
+ |-lookup_file_list
+ |-lookup_tar_file
+ |-mobile_file_list
+ |-OmniturePreprocess.py
+ |-Prep4Load.sh
+ |-setup_env.sh
+ |-test.py }
+
+
